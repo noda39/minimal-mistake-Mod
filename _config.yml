@@ -10,15 +10,15 @@ description: Jekyll template with example content for a web agency.
 
 # Author details for the jekyll-seo-tag gem
 author: ChienFM
-  name: 
-  email: bachien@outlook.com
-  twitter: CBoil # twitter username without the @ symbol
+#  name: 
+#  email: bachien@outlook.com
+#  twitter: CBoil # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
   name: VietCFD
   links:
-    - https://google.com
+    - https://noda39.github.io
 
 collections:
   staff_members:
