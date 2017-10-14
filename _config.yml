@@ -26,6 +26,9 @@ collections:
   clients:
     output: true
 
+# Conversion
+markdown: kramdown
+
 paginate: 10
 paginate_path: "/blog/:num/"
 permalink: pretty
