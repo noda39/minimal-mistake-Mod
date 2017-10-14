@@ -39,8 +39,9 @@
 				{% include navigation.html %}
 			</div>
 		</header>
+		<div id="main">
 		{{ content }}
-
+		</div>
 		<footer class="diagonal">
 			<div class="container">
 				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Update Footer Sections</a></p>
@@ -91,6 +92,7 @@
 				return false;
 			};
 		</script>
+
 		<script>
 			renderMathInElement(
 			  document.getElementById("main"),
