@@ -31,7 +31,7 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-feature_row:
+feature_row1:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Super Customizable"
@@ -48,3 +48,5 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row1" %}
