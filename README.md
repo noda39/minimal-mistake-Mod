@@ -1,1 +1,1 @@
-# Personal website using Urban theme
+# My personal Blog base minimal mistakes theme
