@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # example navigation
 foo:
   - title: "Parent Link 1"
@@ -132,14 +131,3 @@ sidebar-sample:
         url: /
       - title: "Child Page D2"
         url: /
-=======
-links:
-- name: Portfolio
-  link: /portfolio/
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
-- name: Contact
-  link: /contact/
->>>>>>> 14576175e601629c67db0461280181cf46217332
