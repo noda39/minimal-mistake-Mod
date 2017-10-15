@@ -1,1 +1,0 @@
-# My personal Blog base minimal mistakes theme
