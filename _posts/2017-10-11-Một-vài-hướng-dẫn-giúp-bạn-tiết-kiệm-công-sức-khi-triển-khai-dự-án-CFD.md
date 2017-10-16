@@ -26,7 +26,7 @@ Thực ra điều đó là hoàn toàn bình thường khi bạn làm CFD. Theo 
 
 Vậy còn đối với các bạn có ít kinh nghiệm hoặc mới tiếp xúc với các bài toán CFD, làm sao để hạn chế điều đó. Hướng dẫn sau đây có thể sẽ giúp ích cho bạn.
 {: .text-justify}
-{% include toc %}
+{% include toc icon="gears" title="My Table of Contents" %}
 ### 1. Kiểm tra kĩ lưỡng các thiết lập
 
 Sau khi bỏ rất nhiều công sức cho việc xây dựng mô hình, chia lưới và thiết lập... có lẽ cái cảm giác ấn nút (hoặc gõ lệnh) để cho chương trình chạy rồi ngồi đợi kết quả sẽ rất cuốn hút bạn. Mình thường xuyên trải qua cảm giác đó. Tuy nhiên, chỉ một thao tác nhầm lẫn có thể khiến bạn mất nhiều công sức để rà soát lại từ đầu xem lỗi phát sinh từ đâu. Nó khiến bạn mệt mỏi hơn khi quá trình này cứ lặp đi lặp lại, hoặc tệ hơn là khi chạy được 99% thì bạn nhớ ra là bạn đã thiết lập sai 1 thông số nào đó. Do vậy, <span style ="color:blue">*lời khuyên đầu tiên dành cho bạn là luôn kiểm tra thật kĩ mọi thiết lập trước khi chạy*</span>. Tốt nhất là bạn hãy lập ra 1 danh sách các thông số cần quan tâm. Nó có thể bao gồm:

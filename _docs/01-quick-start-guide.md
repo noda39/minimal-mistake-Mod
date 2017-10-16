@@ -9,7 +9,7 @@ redirect_from:
 
 Minimal Mistakes has been developed as a [Jekyll theme gem](http://jekyllrb.com/docs/themes/) for easier use. It is also 100% compatible with GitHub Pages --- just with a more involved installation process.
 
-{% include toc %}
+{% include toc icon="gears" title="My Table of Contents" %}
 
 ## Installing the Theme
 
