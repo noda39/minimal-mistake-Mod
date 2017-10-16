@@ -4,8 +4,6 @@
 
 $(document).ready(function(){
 
-  // SVG for Everybody init
-  svg4everybody(); 
   
   // Sticky footer
   var bumpIt = function() {
