@@ -37,7 +37,7 @@
     <div class="archive__item-excerpt" itemprop="description">
       {% if post.excerpt %}
         {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
-        <h4> <p><a href="{{ post.url | relative_url }}" class="more-link">{{ site.data.theme.t.read_more | default: 'Read More >' }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p> </h4> 
+        <h3> <p><a href="{{ post.url | relative_url }}" class="more-link">{{ site.data.theme.t.read_more | default: 'Read More' }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p> </h3> 
       {% endif %}
     </div>
   </article>
