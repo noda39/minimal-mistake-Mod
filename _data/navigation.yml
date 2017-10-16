@@ -25,7 +25,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog Articles"
-    url: /page-b/
+    url: /index/
   - title: "Sample Posts"
     url: /year-archive/
   - title: "Sample Collections"
