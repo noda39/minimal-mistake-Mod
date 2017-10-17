@@ -5,10 +5,10 @@ header:
   overlay_color: "#333"
 categories:
   - CFD
-tag:
+tags:
   - CFD
   - Practise Guide
-last_modified_at: 2017-10-13T15:55
+last_modified_at: 2017-10-17T15:55
 ---
 
 Có lẽ hầu hết các bạn làm mô phỏng đã từng trải qua cái cảm giác lo lắng khi chương trình bắt đầu chạy dù cho trước đó bạn đã dành rất nhiều thời gian cho việc dựng mô hình, chia lưới, chọn solver và đặt điều kiện biên. 
