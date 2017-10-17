@@ -46,7 +46,8 @@
     {% if post.date %}
       <p class="archive__item-meta">
         <font size="3">
-          <span class="byline-item"><span class="icon">{% include icon-calendar.svg %}</span> &nbsp;<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></span> &nbsp; &nbsp; &nbsp;{% if post.read_time %} <span class="byline-item"><span class="icon">{% include icon-stopwatch.svg %}</span> &nbsp;{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</span>{% endif %}
+          <span class="byline-item"><span class="icon">{% include icon-calendar.svg %}</span> &nbsp;<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></span>
+           <!-- &nbsp; &nbsp; &nbsp;{% if post.read_time %} <span class="byline-item"><span class="icon">{% include icon-stopwatch.svg %}</span> &nbsp;{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</span>{% endif %} -->
         </font>
       </p>    
     {% endif %}
