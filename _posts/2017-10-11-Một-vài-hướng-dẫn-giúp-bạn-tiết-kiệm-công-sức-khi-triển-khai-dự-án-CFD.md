@@ -1,17 +1,13 @@
 ---
 title: "Tiết kiệm thời gian cho dự án CFD của bạn qua một vài bước đơn giản"
-sub_title: "A CFD Practise Guide"
-featured-img: /assets/images/enter-1636527.jpg
+excerpt: "Bài viết này đưa ra một vài lời khuyên cho các bạn mới tìm hiểu về mô phỏng"
+header:
+  overlay_color: "#333"
 categories:
   - CFD
+tag:
+  - CFD
   - Practise Guide
-  - Hướng dẫn CFD
-elements:
-  - Math Equation
-  - css
-  - formatting
-  - html
-  - markup
 last_modified_at: 2017-10-13T15:55
 ---
 
