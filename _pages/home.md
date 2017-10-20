@@ -3,7 +3,7 @@ title: "Home"
 layout: splash
 permalink: /
 date: 2017-10-18T11:48:41-04:00
-header:
+section:
   - title: "ChienFM"
     overlay_color: "#000"
     overlay_filter: "0.5"
@@ -20,7 +20,6 @@ header:
     cta_url: "/_pages/index.html"
     #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
     excerpt: "A collection of my though, experience, inspiration and the translating articles. Most of them are used as my references. I'm happy if you find them useful!"
-
   - title: "Projects"
     overlay_color: "#000"
     overlay_filter: "0.5"
