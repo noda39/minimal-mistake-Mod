@@ -6,49 +6,47 @@ date: 2017-10-18T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  cta_label: "Download"
+  overlay_image: /assets/images/background/bg_header_002.jpg
+  cta_label: "More Info"
   cta_url: "https://github.com/noda39"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
+excerpt: "I'm a researcher in the field of heat transfer. I'm also a geek, a programming and electronics hobbyist."
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/background/bg_header_003.jpg
+  cta_label: "Articles"
+  cta_url: "/_pages/index.html"
+  #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
+excerpt: "A collection of my though, experience, inspiration and the translating articles. Most of them are used as my references. I'm happy if you find them useful!"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/background/bg_header_004.jpg
+  cta_label: "Projects"
+  cta_url: "#Test"
+  #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
+excerpt: "A collection of some fun and useful projects on CFD"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: '“Live as if you were to die tomorrow. Learn as if you were to live forever.” -- Mahatma Gandhi'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/background/numerical_method.jpg
+    alt: "Numerical Methods"
+    title: "Numerical Methods"
+    excerpt: "Tutorials and sugessted books and lecture on CFD"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+  - image_path: /assets/images/background/openfoam.png
+    alt: "OpenFOAM"
+    title: "OpenFOAM"
+    excerpt: "This is a collection of some basic and advanced tutorials on OpenFOAM"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+  - image_path: /assets/images/background/meshing.png
+    title: "Geometry and Meshing"
+    excerpt: "A collection of tutorials on making geometry and grid"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -57,9 +55,3 @@ feature_row4:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
