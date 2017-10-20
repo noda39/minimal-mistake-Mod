@@ -4,29 +4,31 @@ layout: splash
 permalink: /
 date: 2017-10-18T11:48:41-04:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/background/bg_header_002.jpg
-  cta_label: "More Info"
-  cta_url: "https://github.com/noda39"
-  #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
-excerpt: "I'm a researcher in the field of heat transfer. I'm also a geek, a programming and electronics hobbyist."
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/background/bg_header_003.jpg
-  cta_label: "Articles"
-  cta_url: "/_pages/index.html"
-  #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
-excerpt: "A collection of my though, experience, inspiration and the translating articles. Most of them are used as my references. I'm happy if you find them useful!"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/background/bg_header_004.jpg
-  cta_label: "Projects"
-  cta_url: "#Test"
-  #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
-excerpt: "A collection of some fun and useful projects on CFD"
+  - title: "ChienFM"
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: /assets/images/background/bg_header_002.jpg
+    cta_label: "More Info"
+    cta_url: "https://github.com/noda39"
+    #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
+    excerpt: "I'm a researcher in the field of heat transfer. I'm also a geek, a programming and electronics hobbyist."
+  - title: "Articles"
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: /assets/images/background/bg_header_003.jpg
+    cta_label: "More"
+    cta_url: "/_pages/index.html"
+    #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
+    excerpt: "A collection of my though, experience, inspiration and the translating articles. Most of them are used as my references. I'm happy if you find them useful!"
+
+  - title: "Projects"
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: /assets/images/background/bg_header_004.jpg
+    cta_label: "More"
+    cta_url: "#Test"
+    #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
+    excerpt: "A collection of some fun and useful projects on CFD"
 intro: 
   - excerpt: '“Live as if you were to die tomorrow. Learn as if you were to live forever.” -- Mahatma Gandhi'
 feature_row:
