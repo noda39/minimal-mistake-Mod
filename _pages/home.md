@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/background/bg_header_004.jpg
   cta_label: "More Info"
   cta_url: "https://github.com/noda39"
-  #caption: "Photo credit: [**ChienFM**](https://chienfm.com)"
+  caption: "Photo credit: [**Pixabay**](https://chienfm.com)"
 excerpt: "I'm a researcher in the field of heat transfer. I'm also a geek, a programming and electronics hobbyist."
 feature_row1:
   - image_path: assets/images/background/numerical_method.jpg
