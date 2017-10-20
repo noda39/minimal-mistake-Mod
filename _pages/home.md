@@ -45,7 +45,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/background/meshing.png
+  - image_path: /assets/images/background/meshing.jpg
     title: "Geometry and Meshing"
     excerpt: "A collection of tutorials on making geometry and grid"
     url: "#test-link"
