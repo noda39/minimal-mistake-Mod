@@ -13,13 +13,12 @@ header:
 excerpt: "I'm a researcher in the field of heat transfer. I'm also a geek, a programming and electronics hobbyist."
 feature_row1:
   - image_path: assets/images/background/numerical_method.jpg
-    overlay_color: "#000"
-    overlay_filter: "0.5"
     alt: "Articles"
     title: "Articles"
     excerpt: "A collection of my though, experience, inspiration and the translating articles. Most of them are used as my references. I'm happy if you find them useful!"
-    cta_url: "/_pages/index.html"
-    cta_label: "Read More"
+    url: "/_pages/index.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   #- image_path: /assets/images/background/bg_header_004.jpg
   #  overlay_color: "#000"
   #  overlay_filter: "0.5"
