@@ -11,7 +11,7 @@ header:
   cta_url: "https://github.com/noda39"
   caption: "Photo credit: [**Pixabay**](https://chienfm.com)"
 excerpt: "I'm a researcher in the field of heat transfer. I'm also a geek, a programming and electronics hobbyist."
-feature_row1:
+feature_row:
   - image_path: assets/images/background/numerical_method.jpg
     alt: "Articles"
     title: "Articles"
@@ -29,7 +29,7 @@ feature_row1:
   #  cta_label: "Read More"
 intro: 
   - excerpt: '“Live as if you were to die tomorrow. Learn as if you were to live forever.” -- Mahatma Gandhi'
-feature_row:
+feature_row1:
   - image_path: assets/images/background/numerical_method.jpg
     alt: "Numerical Methods"
     title: "Numerical Methods"
@@ -55,4 +55,4 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" %}
