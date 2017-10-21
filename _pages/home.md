@@ -51,7 +51,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include feature_row1 %}
+{% include feature_row %}
 
 {% include feature_row id="intro" type="center" %}
 
