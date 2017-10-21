@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "ChienFM"
 layout: splash
 permalink: /
 date: 2017-10-18T11:48:41-04:00
