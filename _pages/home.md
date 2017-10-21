@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [**Pixabay**](https://chienfm.com)"
 excerpt: "I'm a researcher in the field of heat transfer. I'm also a geek, a programming and electronics hobbyist."
 feature_row:
-  - image_path: assets/images/background/numerical_method.jpg
+  - image_path: assets/images/background/bg009.jpg
     alt: "Articles"
     title: "Articles"
     excerpt: "A collection of my though, experience, inspiration and the translating articles. Most of them are used as my references. I'm happy if you find them useful!"
@@ -51,7 +51,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include feature_row %}
+{% include feature_row type = "left" %}
 
 {% include feature_row id="intro" type="center" %}
 
